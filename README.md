@@ -33,7 +33,7 @@ To start the server (runs on port 3000)
 yarn start
 ```
 
-### Documentation
+### Schema Definition
 
 ```
 {
