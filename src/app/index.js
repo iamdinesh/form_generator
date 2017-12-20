@@ -1,5 +1,4 @@
 import MFC from '../library/index.jsx';
-import $ from 'jquery';
 import React from 'react';
 import ReactDOM from "react-dom";
 
@@ -42,10 +41,8 @@ const metaData = {
  };
 
  const created_form = new MFC(metaData);
- console.log(created_form.generateHTML())
+
   ReactDOM.render(
    created_form.generateHTML(),
    document.getElementById('form-container')
  );
-
- // $('#form-container').html(created_form.generateHTML())
