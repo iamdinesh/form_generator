@@ -78,7 +78,7 @@ yarn start
 
 The above definition will render this form 
 
-
+![sample image](https://github.com/vimal1083/form_generator/blob/master/sample.png)
 
 
 
